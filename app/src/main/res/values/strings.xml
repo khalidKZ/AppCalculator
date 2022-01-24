@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppCalculator</string>
+    <string name="divide">/</string>
+    <string name="nine">9</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+</resources>
